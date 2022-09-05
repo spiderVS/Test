@@ -1,1 +1,1 @@
-console.log('Go to Hell');
+console.log('Go to Paradise');
